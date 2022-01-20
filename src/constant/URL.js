@@ -1,0 +1,1 @@
+export const POKEMON_URL = "https://raw.githubusercontent.com/Biuni/PokemonGO-Pokedex/master/pokedex.json"
