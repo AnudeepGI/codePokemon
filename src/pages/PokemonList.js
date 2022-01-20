@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import DataTable from "../components/DataTable";
-import Loading from "../Loading";
+import Loading from "../components/Loading";
 import fetchDataPokemonGO from "../services/Api";
 import { POKEMON_URL } from "../constant/URL";
 import AppBarPokemon from "../components/AppBarPokemon";

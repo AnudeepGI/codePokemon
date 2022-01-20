@@ -1,8 +1,8 @@
 import Slider from "../components/Slider";
 import { useState, useEffect } from "react";
 import { useParams } from "react-router-dom";
-import fetchDataPokemonGO from "../services/Api";
 import { POKEMON_URL } from "../constant/URL";
+import fetchDataPokemonGO from "../services/Api";
 import AppBarPokemon from "../components/AppBarPokemon";
 
 function PokemonDetail() {
@@ -19,7 +19,7 @@ function PokemonDetail() {
   useEffect(() => fetchData(), []);
   return (
     <>
-      <AppBarPokemon />
+      <AppBarPokemon enable={true} />
       <div
         style={{
           width: "28%",
