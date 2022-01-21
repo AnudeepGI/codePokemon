@@ -2,6 +2,7 @@
   "name": "pokelistapp",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://anudeepgi.github.io/codePokemon/",
   "dependencies": {
     "@material-ui/core": "^4.10.2",
     "@material-ui/icons": "^4.9.1",
