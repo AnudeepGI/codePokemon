@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.e6c13ad2.css",
-    "main.js": "/static/js/main.12b4d8db.js",
-    "static/js/787.ce3efec5.chunk.js": "/static/js/787.ce3efec5.chunk.js",
-    "index.html": "/index.html",
-    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
-    "main.12b4d8db.js.map": "/static/js/main.12b4d8db.js.map",
-    "787.ce3efec5.chunk.js.map": "/static/js/787.ce3efec5.chunk.js.map"
+    "main.css": "/AnudeepGI/codePokemon/static/css/main.e6c13ad2.css",
+    "main.js": "/AnudeepGI/codePokemon/static/js/main.1dbeb9da.js",
+    "static/js/787.ce3efec5.chunk.js": "/AnudeepGI/codePokemon/static/js/787.ce3efec5.chunk.js",
+    "index.html": "/AnudeepGI/codePokemon/index.html",
+    "main.e6c13ad2.css.map": "/AnudeepGI/codePokemon/static/css/main.e6c13ad2.css.map",
+    "main.1dbeb9da.js.map": "/AnudeepGI/codePokemon/static/js/main.1dbeb9da.js.map",
+    "787.ce3efec5.chunk.js.map": "/AnudeepGI/codePokemon/static/js/787.ce3efec5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.12b4d8db.js"
+    "static/js/main.1dbeb9da.js"
   ]
 }
